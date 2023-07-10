@@ -1,0 +1,44 @@
+.crads{
+   flex-wrap: wrap;
+   width: 300px;
+   border: 2px solid gray;
+   overflow: hidden;
+   background:black;
+   display: flex;
+}
+.Heading{
+    justify-content: center;
+}
+.main_div{
+    display: flex;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 9px black;
+    margin: 10PX;
+}
+.image{
+    border: 3px solid white;
+}
+.images{
+    border: 2px solid black;
+}
+.card_category{
+    color:white;
+    margin: 10PX;
+}
+.card_title{
+    color: white;
+    margin: 10PX;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    justify-content: space-between;
+    justify-content: space-around;
+}
